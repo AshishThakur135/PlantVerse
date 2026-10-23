@@ -9,7 +9,16 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-st.logo("static/logo.svg", size="large")
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+LOGO_PATH = BASE_DIR / "static" / "logo.svg"
+
+if LOGO_PATH.is_file():
+    st.logo(str(LOGO_PATH), size="large")
+else:
+    st.warning(f"Logo not found: {LOGO_PATH}")
+      
 apply_chrome()
 init_state()
 
