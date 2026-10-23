@@ -1,0 +1,52 @@
+{
+  "Tomato with Late Blight": {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "symptoms": "Tomato leaves and stems can develop dark lesions, sometimes with white sporulation or fuzz under humid or damp conditions. Dry conditions can leave dark lesions without visible fuzz.",
+    "immediate_actions": [
+      "If late blight is suspected in a field, contact the local agricultural extension service promptly because the pathogen can spread by wind.",
+      "For localized field outbreaks, Cornell advises removing affected plants and nearby healthy plants to limit spread."
+    ],
+    "non_chemical_management": [
+      "Remove and properly dispose of infected plant material; do not leave infected tomato fruit or plant debris in cull piles."
+    ],
+    "prevention": [
+      "Consider resistant tomato varieties where available.",
+      "Rotate away from solanaceous crops for three years.",
+      "Scout susceptible and shaded areas regularly and check regional late-blight alerts."
+    ],
+    "chemical_options": [],
+    "source_organization": "Cornell University, Cornell Vegetables / New York State Integrated Pest Management",
+    "source_url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/late-blight/",
+    "region": "New York, United States; confirm local guidance elsewhere.",
+    "safety_notes": [
+      "This model is a screening aid, not a diagnosis. Confirm suspected late blight with an agricultural extension service.",
+      "No pesticide is recommended here. If a pesticide is considered, follow local registration, label, and extension guidance."
+    ]
+  },
+  "Potato with Late Blight": {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "symptoms": "Potato leaves and stems can develop dark lesions, sometimes with white sporulation or fuzz under humid or damp conditions. Dry conditions can leave dark lesions without visible fuzz.",
+    "immediate_actions": [
+      "If late blight is suspected in a field, contact the local agricultural extension service promptly because the pathogen can spread by wind.",
+      "Dispose of infected tubers properly; Cornell notes that infected tubers can be a source of inoculum."
+    ],
+    "non_chemical_management": [
+      "Do not leave infected tubers in cull piles or other places where they can produce new sources of infection."
+    ],
+    "prevention": [
+      "Consider resistant potato varieties where available.",
+      "Rotate away from solanaceous crops for three years.",
+      "Scout susceptible and shaded areas regularly and check regional late-blight alerts."
+    ],
+    "chemical_options": [],
+    "source_organization": "Cornell University, Cornell Vegetables / New York State Integrated Pest Management",
+    "source_url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/late-blight/",
+    "region": "New York, United States; confirm local guidance elsewhere.",
+    "safety_notes": [
+      "This model is a screening aid, not a diagnosis. Confirm suspected late blight with an agricultural extension service.",
+      "No pesticide is recommended here. If a pesticide is considered, follow local registration, label, and extension guidance."
+    ]
+  }
+}
